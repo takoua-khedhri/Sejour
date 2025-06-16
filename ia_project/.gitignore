@@ -1,0 +1,12 @@
+__pycache__/
+uploads/
+*.pkl
+*.json
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+venv/
+!ia_project/railway.json

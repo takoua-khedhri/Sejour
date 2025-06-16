@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+face_recognition
+scikit-learn
+opencv-python
+numpy
+dlib
