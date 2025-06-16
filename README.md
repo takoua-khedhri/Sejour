@@ -1,16 +1,25 @@
-# sejour
+# 📱 Séjour – Application Mobile Flutter
 
-A new Flutter project.
+**Séjour** est une application mobile développée avec **Flutter** permettant aux parents de consulter et interagir avec les publications de séjours via une interface fluide et intuitive. L'application intègre des **API REST** fournies par l’entreprise et repose sur une architecture propre et modulaire.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fonctionnalités principales
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Connexion sécurisée** dédiée aux parents
+- 📅 **Affichage dynamique** des séjours et publications classées par date
+- ❤️ **Appréciation des publications** (like), gestion des favoris
+- 🔎 **Affichage des détails complets** d’un séjour
+- 🎧 **Section audio** pour les publications vocales
+- 🧱 **Architecture Clean Architecture** : séparation claire des couches pour un code maintenable et évolutif
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies utilisées
+
+- Flutter
+- Dart
+- API REST
+- Clean Architecture
+
+---
